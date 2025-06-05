@@ -1,0 +1,63 @@
+ 
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+かけるようになるといい。メディアクエリ対応に必要。
+
+<meta property="og:type" content="website">
+→og img はリンクを共有したときに表示される内容
+
+<meta property="og:title" content="WebデザイナーTARO YAMADA ポートフォリオ">
+共有したときにどういった名前で出てほしいか
+
+  <meta property="og:url" content="URLが入る">
+ポートフォリオサイト
+
+  <meta name="description" content="TARO YAMADAのポートフォリオサイトです">
+共有されたときに表示される説明　14文字以内くらいだといい。（YAHOOのニュース一覧は15文字で決めている）
+
+  <meta property="og:image" content="img/ogp.png">
+共有時の写真　JPEGでもいい
+
+  <meta name="description" content="TARO YAMADAのポートフォリオサイトです">
+必ず加える。
+
+ress.css = reset.css
+
+
+
+●CONTACTに乗せたくなければ、乗せなくてもいい
+
+1作目、2作目、3作目など、作品ごとのcaptionに何日～何日までを載せる。
+
+
+Works-template
+
+●何月何日～
+★構想何時間、デザイン何時間、サイト制作何時間かけたのか、記載する。
+→どの部分を何時間でこなせるかを記載する。
+
+
+●WEBサイトはこちら、と飛べるようにボタンを作っていくのもあり
+
+●ターゲット（コンバージョン）
+→3つくらいでいいが書く必要がある
+
+●デザインについて、コーディングについて
+1作目は…2作目は、3作目は、、、、
+
+●a タグのリンクを治す
+
+〇noindex,nofollow を入れる！
+
+最悪でも6ツ作品。10個のサイトとかがいい。
+言葉は少ないより多いほうがいい。
+
+
+★時間があるときに作成。このポートフォリオを作成して完成
+
+どういうことを考えてから作成したか言語化できるようにする
+
+
+画面のフルスクリーンをしてから、でもすべて使わないようにする
+一部を載せるようにする。
+
+こだわったところを載せておくようにする。
